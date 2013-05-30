@@ -1,0 +1,5 @@
+﻿/* Demo styles
+**********************************/
+* { font-family: Arial, sans-serif; font-size: 12px; }
+[class^="span"] { background-color: #ccc; text-align: center; vertical-align: text-bottom; line-height: 30px; }
+[class^="row-fluid-"] { margin-bottom: 1em; }
