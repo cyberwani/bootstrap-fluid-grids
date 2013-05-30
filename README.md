@@ -2,7 +2,7 @@ Bootstrap Fluid Grids
 =====================
 
 ##Summary
-These stylesheets provide additional fluid-grid layouts, including a 5-, 7-, 15-, 16- and 24-column fluid grid systems using SCSS.
+These stylesheets provide additional fluid-grid layouts, including a 5-, 7-, 12-, 15-, 16- and 24-column fluid grid systems using SCSS.
 
 ##Why?
 Since Bootstrap replaced their 16-column grid system with a 12-column grid system, I've been wanting more. While the 12-column framework is a more versatile layout, I've seen what 24-column frameworks are capable of.
