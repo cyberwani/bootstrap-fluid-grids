@@ -1,4 +1,4 @@
-Bootstrap Fluid Grids
+Bootstrap 2.3.2 Fluid Grids
 =====================
 
 ##Summary
